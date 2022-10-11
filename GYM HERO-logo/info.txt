@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: SlingBold
+font link: https://www.fontsquirrel.com/fonts/Sling
+font author: STAR Retrieval Systems
+font author site: 
+
+
+icon designer: Alfredo @ IconsAlfredo.us
+icon designer link: /AlfredoCreates
+        
+{"bg":"#E8DCEF","icon-gradient-0":"#49247E","icon-gradient-1":"#AA49C7","font":"#241030","slogan":"#382444"}
+      
