@@ -3,7 +3,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Link to project:** https://devmev10.github.io/gym/
 
-![alt tag](https://drive.google.com/file/d/1cZ64p8CTSODz7Y_GQWMnUvWn5-qk07Mb/view?usp=sharing)
+![alt tag](https://ibb.co/nC948M4)
 
 ## How It's Made:
 
